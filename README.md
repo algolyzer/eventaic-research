@@ -396,8 +396,8 @@ If you use this system in your research, please cite:
 ```bibtex
 @article{eventaic2025,
   title={Automated Advertising Campaign Generation from Minimal Prompts: An AI-Powered Multi-Component Approach},
-  author={[Your Name]},
-  journal={[Journal Name]},
+  author={[Shamsuddin Ahmed]},
+  journal={[]},
   year={2025}
 }
 ```
